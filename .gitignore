@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#files
+
+/data_export/AIR_CIA/*
+/data_export/VRA/*
+/data_export/views/companhias_aereas/*
+/data_export/views/aeroportos/*
